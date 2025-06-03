@@ -17,8 +17,8 @@ This repository is a work in progress.
 
 ### ✅ Requirements
 
-- C Compiler (like GCC)
-- Code editor (e.g., VS Code, Code::Blocks)
+- C Compiler (like GCC) 
+- Code editor (e.g.,Dev C++, VS Code)
 - Basic command line usage
 
 ### ▶️ How to Compile & Run
