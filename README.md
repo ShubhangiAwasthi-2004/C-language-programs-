@@ -2,7 +2,7 @@
 
 Welcome to the **C-language-programs** repository by [@ShubhangiAwasthi-2004](https://github.com/ShubhangiAwasthi-2004)!
 
-This repository is a personal collection of C programs created for learning and practice. I started learning the C language in my **2nd year, 3rd semester of college**, primarily using tutorials from the **CodeWithHarry YouTube channel**.
+This repository is a personal collection of C programs created for learning and practice. I started learning the C language in my **2nd year, 3rd semester of my college and I am currently in 6th sem**, primarily using tutorials from the **CodeWithHarry YouTube channel**.
 
 ---
 
