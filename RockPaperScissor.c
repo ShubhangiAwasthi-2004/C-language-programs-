@@ -1,4 +1,4 @@
-//copy paste and Enjoy rock , paper and scissor game!!
+//  ******** Enjoy rock , paper and scissor game!! **********
 
 
 #include <stdio.h>
