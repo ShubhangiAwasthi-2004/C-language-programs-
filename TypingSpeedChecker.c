@@ -10,11 +10,26 @@
 
 int main() {
     char *sentences[MAX_SENTENCES] = {
-        "The quick brown fox jumps over the lazy dog.",
-        "C programming is fun and powerful.",
-        "Typing fast can be a useful skill.",
-        "Keep practicing to improve your speed.",
-        "Always write clean and readable code."
+      "The quick brown fox jumps over the lazy dog.",
+      "C programming is fun and powerful.",
+      "Typing fast can be a useful skill.",
+      "Keep practicing to improve your speed.",
+      "Always write clean and readable code.",
+      "Debugging is like being the detective in a crime movie.",
+      "Simplicity is the soul of efficiency in programming.",
+      "Learning never exhausts the mind, it sharpens it.",
+      "A good programmer looks both ways before crossing a one-way street.",
+      "If you can't explain it simply, you don't understand it well enough.",
+      "First solve the problem, then write the code.",
+      "Sometimes, the best code is no code at all.",
+      "Computers are fast, but programmers keep slowing them down.",
+      "Clean code is like poetry — every word matters.",
+      "Never underestimate the power of a well-placed semicolon."
+      "The quick brown fox jumps over the lazy dog.",
+      "C programming is fun and powerful.",
+      "Typing fast can be a useful skill.",
+      "Keep practicing to improve your speed.",
+      "Always write clean and readable code."
     };
 
     char input[MAX_LEN];
