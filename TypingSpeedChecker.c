@@ -5,7 +5,7 @@
 #include <time.h>
 #include <string.h>
 
-#define MAX_SENTENCES 5
+#define MAX_SENTENCES 15
 #define MAX_LEN 256
 
 int main() {
@@ -25,11 +25,6 @@ int main() {
       "Computers are fast, but programmers keep slowing them down.",
       "Clean code is like poetry — every word matters.",
       "Never underestimate the power of a well-placed semicolon."
-      "The quick brown fox jumps over the lazy dog.",
-      "C programming is fun and powerful.",
-      "Typing fast can be a useful skill.",
-      "Keep practicing to improve your speed.",
-      "Always write clean and readable code."
     };
 
     char input[MAX_LEN];
